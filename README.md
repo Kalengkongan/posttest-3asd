@@ -1,1 +1,12 @@
-# posttest-3asd
+# CARA KERJA PROGRAM
+Pada saat program dijalankan, user akan ditampilkan menu pilhan oleh program. kemudian user juga diminta oleh program untuk menginputkan pilIhan yang tersedia di dalam list, jika user menginputkan angka 1 maka user akan masuk kedalam menu Tambah pesanan, setelah itu user diminta untuk memasukan nama, masukan tanggal, dan no kamar. apabila user menginputkan angka 2 maka user akan masuk kedalam menu tampilkan pesanan, setelah masuk dalam menu maka user akan ditampilkan pesanan, user menginputkan angka 3 maka user akan masuk kedalam menu cari pesanan, setelah user masuk kedalam menu ini user diminta untuk memasukan nama yang ,ingin dicari datanya, setelah user memasukan nama yang cocok maka program akan menampilkan data pesanan hotel yang dicari tersebut. apabila user memasukan angka 4 maka user akan masuk kedalam menu hapus pesanan, apabila user meninputkan angka 6 maka program akan keluar.
+
+# FUNGSIONAL KERJA APLIKASI
+fungsi program adalah menyimpan data, menambah data, melihat data ,mengubah dan menghapus data pesanan hotel yang berisi nama,tanggal,no kamar.
+
+# OUTPUT PROGRAM 
+setelah program dijalankan, pengguna akan melihat output berupa menu data pesanan hotel, jika anda memilih angka "1" anda akan masuk ke output "Tambah Pesanan"
+dan anda diminta memasukan nama , tanggal, dan no kamar.jika berhasil maka anda akan melihat output "data pesanan hotel berhasil ditambahkan.setelah itu jika anda memilih angka "2" anda akan masuk ke output "tampilkan pesanan" anda akan melihat data pesanan. jika anda memilih angka "3" anda akan masuk ke output "cari pesanan" setelah itu anda diminta memasukan output "masukan nama yang ingin dicari" jika anda benar memasukan nama tersebut anda maka output akan muncul diprogram, jika anda salah memasukan nama tersebut maka output akan muncul "nama yang anda cari tidak ditemukan. jika anda memilih angka "4" anda akan masuk ke output "update data pesanan" dan anda diminta memasukan nama yang ingin diupdate, jika anda memilih angka "5" anda akan masuk ke output "hapus data pesanan" setelah itu anda disuruh memasukan nama yang ingin dihapus, setelah berhasil maka output akan yang akan keluar  "nama berhasil dihapus".jika anda  memilih angka "6" maka anda akan keluar dari program.
+
+# ELEMEN YANG DIGUNAKAN
+Untuk modul yang digunakan ada 1 yaitu modul prettytable dan function yang digunakan function constructor, function main, function biasa, function class, function while.
